@@ -2,9 +2,9 @@
 
 Simple prestashop module to schedule tax update for 01/01/2014
 
--Install module
--Go to module setup
--Edit your new tax rules, they'll be automatically applied
+* Install module
+* Go to module setup
+* Edit your new tax rules, they'll be automatically applied
 
 # Mise à jour de la tva 2014
 
